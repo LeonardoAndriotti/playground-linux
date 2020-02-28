@@ -1,7 +1,8 @@
 # Playground Linux
 
 [Comandos gerais](#playground-linux)
-[Permissões de arquivos](#playground-linux)
+
+[Permissões de arquivos](#permissões-de-arquivos)
 
 | Comandos        | Descrição  | Exemplo  |
 | ------------- |:-------------:| -----:|
