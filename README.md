@@ -62,6 +62,17 @@
 
 | Comandos        | Descrição  | Exemplo  |
 | ------------- |:-------------:| -----:|
-| chmod | dar permissão    |    chmod 777 "arquivo ou dir"|
+| chmod | dar permissão    |    chmod 777 "arquivo ou dir" -R|
 | chmod | dar permissão    |    chmod g + xux|
 | chmod | dar permissão     |    chmod root:root "nome do arquivo"|
+
+Para alterar o proprietário de um arquivo ou pasta qualquer, utilizamos o comando “chown” (change owner). Este comando tem a seguinte sintaxe:
+
+chown [novo proprietário] [caminho/da/pasta/arquivo] [-R]
+
+Para [novo proprietário] utilizamos o nome de usuário do novo proprietário.
+
+Para [caminho/da/pasta/arquivo] indicamos o caminho da pasta ou do arquivo que queremos alterar.
+
+O [-R] serve para pastas e indica “modo recursivo”, ou seja, altere a pasta e todos os arquivos dentro dela. Ele é opcional.
+
