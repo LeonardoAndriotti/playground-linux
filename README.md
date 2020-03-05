@@ -4,6 +4,8 @@
 
 [Permissões de arquivos](#permissões-de-arquivos)
 
+[Links validos](#Links)
+
 | Comandos        | Descrição  | Exemplo  |
 | ------------- |:-------------:| -----:|
 | pwd    | imprime o nome do diretório atual | pwd |
@@ -75,4 +77,10 @@ Para [novo proprietário] utilizamos o nome de usuário do novo proprietário.
 Para [caminho/da/pasta/arquivo] indicamos o caminho da pasta ou do arquivo que queremos alterar.
 
 O [-R] serve para pastas e indica “modo recursivo”, ou seja, altere a pasta e todos os arquivos dentro dela. Ele é opcional.
+
+##Links
+
+###JAVA_HOME
+[baeldung - JAVA_HOME](https://www.baeldung.com/java-home-on-windows-7-8-10-mac-os-x-linux#linux)
+[baeldung - PATH](https://www.baeldung.com/linux/path-variable)
 
