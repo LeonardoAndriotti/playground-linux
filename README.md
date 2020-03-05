@@ -78,9 +78,7 @@ Para [caminho/da/pasta/arquivo] indicamos o caminho da pasta ou do arquivo que q
 
 O [-R] serve para pastas e indica “modo recursivo”, ou seja, altere a pasta e todos os arquivos dentro dela. Ele é opcional.
 
-##Links
-
-### JAVA_HOME
+## Links
 
 [baeldung - JAVA_HOME](https://www.baeldung.com/java-home-on-windows-7-8-10-mac-os-x-linux#linux)
 
