@@ -9,7 +9,7 @@
 | Comandos        | Descrição  | Exemplo  |
 | ------------- |:-------------:| -----:|
 | pwd    | imprime o nome do diretório atual | pwd |
-| ls      | listar o conteúdo do diretório      |  ls -l (ordenado p/coluna) / ls -f (executáveis)  |
+| ls      | listar o conteúdo do diretório      |  ls -l (ordenado p/coluna) / ls -f (executáveis)  / ls -la lista arquivos oculto|
 | mkdir | Criar pastas     |    mkdir "nome da pasta"|
 | touch | Criar arquivos     |    touch "nome do arquivo"."extensão"|
 | cp | Copiar arquivos     |    cp "nome do arquivo" "nome da copia" |
