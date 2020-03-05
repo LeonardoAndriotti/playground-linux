@@ -80,7 +80,9 @@ O [-R] serve para pastas e indica “modo recursivo”, ou seja, altere a pasta 
 
 ##Links
 
-###JAVA_HOME
+### JAVA_HOME
+
 [baeldung - JAVA_HOME](https://www.baeldung.com/java-home-on-windows-7-8-10-mac-os-x-linux#linux)
+
 [baeldung - PATH](https://www.baeldung.com/linux/path-variable)
 
